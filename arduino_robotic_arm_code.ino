@@ -1,8 +1,8 @@
 
 /*
   REALISED BY EDOARDO SCALI
-  I'm sorry for my bad english
-  to understand the comments watch the arm photos 
+  
+  to understand servos and joysticks positions watch the arm photos 
  */
 
 
